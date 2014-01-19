@@ -1,0 +1,15 @@
+--- !ruby/object:Person
+name: Ion Popescu
+age: 18
+
+--- !ruby/object:Person
+name: Sirețanu Ion
+age: 23
+
+--- !ruby/object:Person
+name: Ursu Dumitru
+age: 22
+
+--- !ruby/object:Person
+name: Adrian Trofimovici
+age: 29
